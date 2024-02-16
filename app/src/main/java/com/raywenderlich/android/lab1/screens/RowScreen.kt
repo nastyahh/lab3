@@ -10,6 +10,7 @@ val THREE_ELEMENT_LIST = listOf(R.string.first, R.string.second, R.string.third)
 
 @Composable
 fun RowScreen(){
+
     MyRow()
 
     BackButtonHandler {
