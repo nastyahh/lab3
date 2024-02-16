@@ -8,6 +8,7 @@
     <string name="button_row">Row</string>
     <string name="button_column">Column</string>
     <string name="button_box">Box</string>
+    <string name="button_surface">Surface</string>
     <string name="button_buttons">Кнопки</string>
     <string name="button_textField">Ввод текста</string>
     <string name="button_progress">Прогрессбар</string>
