@@ -6,6 +6,7 @@
     <string name="set_text">новое представление</string>
     <string name="button_view_text">Представление с текстом</string>
     <string name="set_title">MyComposeApp</string>
+    <string name="Book" >Books</string>
     <string name="button_row">Row</string>
     <string name="button_column">Column</string>
     <string name="button_box">Box</string>
@@ -26,7 +27,7 @@
     <string name="android">Усовершенствованная архитектура Android</string>
     <string name="kotlin">Изучение Kotlin</string>
     <string name="kotlin_coroutines">Корутины Kotlin</string>
-    <string name="swift"/>
-    <string name="ios" />
+    <string name="swift">Swift</string>
+    <string name="ios">IOS</string>
 
 </resources>
